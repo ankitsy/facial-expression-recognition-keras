@@ -1,4 +1,4 @@
-# facial-expression-recognition-keras
+# Facial Expression Recognition 
 A Convolution Neural Network (CNN) based facial expression recognition model with 65.62% accuracy. The state-of-the-art model acheived an accuracy of 73.11% on this dataset.
 
 #### Main Objective:
