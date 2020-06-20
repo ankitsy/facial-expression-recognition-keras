@@ -1,5 +1,5 @@
 # Facial Expression Recognition 
-A Convolution Neural Network (CNN) based facial expression recognition model with 65.62% accuracy. The state-of-the-art model acheived an accuracy of 73.11% on this dataset.
+A Convolution Neural Network (CNN) based facial expression recognition model using TensorFlow & Keras with Python.
 
 #### Main Objective:
 For human beings, understanding expressions is a very easy task. But the same cannot be said for the computers. Even though there has been a tremendous growth in the Machine Learning/ AI field such that computers are proved to be more accurate than humans in a lot of tasks related to computer vision, NLP and many more. But for a computer to interpret the facial expressions has still been a difficult task for computers. In this project, we will construct a model that can interpret the facial expressions.
